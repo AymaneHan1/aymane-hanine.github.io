@@ -923,6 +923,12 @@ section .container {
   right: 15px;
 }
 
+
+.fixed-size-image {
+  width: 500px; /* Specify the desired width */
+  height: 200px; /* Specify the desired height */
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
