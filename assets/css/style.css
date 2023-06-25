@@ -400,6 +400,8 @@ section .container {
   color: #fff;
 }
 
+
+
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
@@ -433,6 +435,28 @@ section .container {
 
 .about-me .content p:last-child {
   margin-bottom: 0;
+}
+
+/*--------------------------------------------------------------
+# With Yann 
+--------------------------------------------------------------*/
+.with-yann {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.profile-image {
+  height: auto; /* Maintain aspect ratio */
+  width: auto;
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+}
+
+.yann-description {
+  max-width: 66.67%;
+  font-size: 18px;
+  text-align: left;
 }
 
 /*--------------------------------------------------------------
